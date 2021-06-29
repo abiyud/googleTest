@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Url change</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f1d0950-cc36-492e-98d8-853bf19a3e2f</testCaseGuid>
+   <variable>
+      <defaultValue>'google.com'</defaultValue>
+      <description></description>
+      <id>8a07d421-e62c-4908-b806-cc231b2cb026</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

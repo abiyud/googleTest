@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Input name not change</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>123ec868-74c4-41cb-8111-7d07b6add900</testCaseGuid>
+   <variable>
+      <defaultValue>'fish'</defaultValue>
+      <description></description>
+      <id>b2abdfa4-0fbe-4624-9ead-ceb4790c4c86</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>
